@@ -4,6 +4,9 @@ A curated, zero-fluff reference guide for penetration testers, CTF competitors, 
 
 When you are in the middle of a time-constrained engagement, lab, or certification exam (such as OSCP, eJPT, or Security+), parsing through lengthy documentation breaks your momentum. This repository provides exact commands, syntax examples, and core methodologies at a glance.
 
+![Cybersecurity Fundamentals](./Assets/Images/cybersecurity-notes.png)
+
+
 ## Repository Structure
 
 The cheatsheets are categorized into core cybersecurity domains for rapid navigation.
